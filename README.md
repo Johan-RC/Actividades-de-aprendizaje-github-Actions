@@ -1,6 +1,6 @@
 # Actividades-de-aprendizaje-github-Actions
 
-1. Ejemplo deploy
+1. Ejemplo deploy basico
 https://github.com/Johan-RC/Ejemplo-deploy.git
 
 3. Ejemplo Deploy con GitHub Actions de API funcional
