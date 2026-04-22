@@ -5,10 +5,11 @@ https://youtu.be/0faNHzHMqnM?si=JhMYUJuIMI_3gozN
 https://1drv.ms/w/c/e5325284c61c375a/IQDvak-bw6VqQ5fARoE30qiWAbPxthdaHyfJl2e_NA2q_n8?e=JDPD3S
 - Informe escrito a mano (version a mano)
 https://drive.google.com/file/d/1woxjSsPGSpW7WNu-PiGLc3bMf41mb_2_/view?usp=sharing // https://1drv.ms/w/c/e5325284c61c375a/IQCC2MjgI2BGRruVjKPbVp-DARvbmu_yaldpWeinRAC1PFg?e=t8Sx4p
-4. Ejemplos Deploy con GitHub Actions de APIs funcionales
+3. Ejemplos Deploy con GitHub Actions de APIs funcionales
 https://github.com/Johan-RC/Apis-deploy-githubActions.git
+4. Video en alta calidad del deploy
+https://youtu.be/sp5O1vx__jE?si=nQZfiWuvwBVEAyoD
 5. Presentación para sustentación
 https://gamma.app/docs/Certificacion-en-GitHub-Actions-0tdeaa183nx6fvx
-
 6. Gobernanza de base de datos basada en roles y permisos, y diagrama arquitectónico
 https://github.com/Johan-RC/BD-6.git
