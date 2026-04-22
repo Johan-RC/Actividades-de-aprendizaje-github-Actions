@@ -1,5 +1,6 @@
 # Actividades-de-aprendizaje-github-Actions
-
+1. Video tutorial en alta calidad (con guion)
+https://youtu.be/0faNHzHMqnM?si=JhMYUJuIMI_3gozN
 2. Informe escrito a mano (version digital)
 https://1drv.ms/w/c/e5325284c61c375a/IQDvak-bw6VqQ5fARoE30qiWAbPxthdaHyfJl2e_NA2q_n8?e=JDPD3S
 - Informe escrito a mano (version a mano)
